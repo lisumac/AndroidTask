@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidTask</string>
+    <string name="address"> address</string>
+    <string name="lat_long"> lat_long</string>
+</resources>
